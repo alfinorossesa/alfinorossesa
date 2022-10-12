@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **Laravel**
 
+- 👯 I’m currently contribute on **self project**
+
 - 📫 How to reach me **alfino.zxcvbnm@gmail.com**
 
 - ⚡ Fun fact **I am Nakama**
