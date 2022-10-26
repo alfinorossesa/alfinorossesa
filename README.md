@@ -8,7 +8,7 @@
 $myself = [
   'name' => 'Alfino Rossesa',
   'pronouns' => 'He/Him',
-  'skills' => ['HTML5', 'CSS3', 'Bootstrap', 'JS', 'jQuery', 'PHP', 'Laravel'],
+  'skills' => ['HTML5', 'CSS3', 'Bootstrap', 'JavaScript', 'jQuery', 'PHP', 'Laravel'],
   'work' => 'I am currently freelance Web Developer',
   'contribute' => 'I am currently contribute on self project',
   'funfact' => 'I am Nakama'
