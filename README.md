@@ -20,10 +20,10 @@ echo $myself['funfact'];
 <details> <summary>Github Stats</summary>
 
 <div>
-<a href="https://github.com/kochan4php">
+<a href="https://github.com/alfinorossesa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinorossesa&theme=radical&layout=compact" />
 </a>
-<a href="https://github.com/kochan4php">
+<a href="https://github.com/alfinorossesa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alfinorossesa&show_icons=true&theme=radical" />
 </a>
 </div>
